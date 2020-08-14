@@ -18,4 +18,6 @@ TDD Boot Camp 2020 Online（以降、本イベント）ではすべての参加�
 私達は参加者が本イベントのオンラインワークショップ会場，また本イベントに関連したソーシャルイベントにて，このルールに従うことを望みます．
 
 
-
+---
+_この行動規範は、CC-BY-3.0で公開されている[会議での行動規範](https://confcodeofconduct.com/index-ja.html)を元に作成しています。_  
+_This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)._
